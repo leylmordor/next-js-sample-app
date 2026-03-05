@@ -71,3 +71,4 @@ npx cypress open
 You'll need to select "E2E Testing" and your preferred browser for testing. For more info, check out the [Cypress Docs](https://docs.cypress.io/guides/getting-started/opening-the-app).
 
 3. Run E2E Tests
+4. sd
