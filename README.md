@@ -72,6 +72,3 @@ You'll need to select "E2E Testing" and your preferred browser for testing. For 
 
 3. Run E2E Tests
    Now, simply click the "spec" you'd like to run and the test will start automatically.
-
-
-Example
